@@ -71,8 +71,6 @@ public class MyAge {
 			}
 		});
 		
-		
-		
 		f.setVisible(true);
 		
 	}
